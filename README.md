@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am an experienced Fullstack Developer with more than 5 years of exposure in the IT, Fintech & Start up industry. I am an open-minded person, willing to take any advice from others and likes neatness.
 
 <!--
 **Alfinff/Alfinff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
