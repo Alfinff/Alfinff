@@ -27,5 +27,5 @@ A polyglot software engineer passionate about clean enterprise architecture, hig
 ---
 
 📫 **Connect With Me:**
-- LinkedIn: [linkedin.com/in/alfin](https://linkedin.com)
+- LinkedIn: [https://www.linkedin.com/in/alfin-febrianto/](https://www.linkedin.com/in/alfin-febrianto/)
 - Email: alvinf889@gmail.com
